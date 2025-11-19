@@ -1,0 +1,2 @@
+ciao ciao mondo spark
+spark è potente e spark è distribuito
